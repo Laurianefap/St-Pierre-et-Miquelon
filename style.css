@@ -1,0 +1,134 @@
+body {
+	background-color: #b4dfe5;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-right: 30px;
+	font-family: 'Inter', sans-serif;
+}
+
+h1 {
+	color: #c91402;
+	font-size: 52px;
+	font-family: 'Acme', sans-serif;
+}
+
+h2 {
+	color: #eec000;
+	font-family: 'Acme', sans-serif;
+}
+
+h3 {
+	color: #3c642b;
+	font-family: 'Acme', sans-serif;
+}
+
+.picture-blazon {
+	width: 150px;
+	
+} 
+
+.picture-city {
+	width: 400px;
+	height: 300px;
+	object-fit: cover;
+}
+
+.picture-campaign {
+	width: 400px;
+	height: 300px;
+	object-fit: cover;
+}
+
+.picture-insta {
+	width: 30px;
+	height: 30px;
+	object-fit: cover;
+}
+
+.picture-facebook {
+	width: 30px;
+	height: 30px;
+	object-fit: cover;
+}
+
+.picture-deer {
+	width: 400px;
+	height: 200px;
+	object-fit: cover;
+} 
+
+.picture-galery {
+	width: 270px;
+	height: 170px;
+}
+
+.center-content {
+	text-align: center;
+}
+
+div {
+	padding: 2px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+.faune {
+	background: #399AA7;
+	font-size: n3 ; color: white;
+	text-align: justify;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.flore {
+	background: #3BA76F ;
+	font-size: n3 ; color: white;
+	text-align: justify;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.loisirs {
+	text-align: justify;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.aligned {
+	text-align: justify;
+}
+
+.video-center {
+	text-align: center;
+}
+
+.link-aligned {
+	display: flex;
+	justify-content: space-around;
+	padding: 2%;
+	
+	font-family: 'Acme', sans-serif;
+}
+.border-menu {
+	border: 2px solid #c91402;
+}
+.border-footer {
+	border: 2px #b4dfe5;
+	background: #399AA7;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #eec000;
+	font-weight: 900;
+}
+
+.elements-aligned {
+	display: flex;
+	justify-content: space-around;
+}
